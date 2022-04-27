@@ -8,7 +8,7 @@ Basic Usage:
 python plot_orbit.py
 ```
 
-Runs the simulation and outputs a still image of the planets' trajectories..
+Runs the simulation and outputs a still image of the planets' trajectories.
 
 ```
 python nbody_ani.py
