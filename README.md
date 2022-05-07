@@ -16,7 +16,7 @@ python nbody_ani.py
 
 Runs the simulation and outputs an animation of the planets' trajectories.
 
-The other files are modules for actually running the simulation.
+The other files are modules for running the simulation.
 
 # Requirements
 
